@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+	<book category="technical">
+	
+		<ISBN>1942788002</ISBN>
+		<title>The DevOps Handbook</title>
+		<author>Gene Kim</author>
+
+		<ISBN>1119002257</ISBN>
+		<title>Storytelling with Data</title>
+		<author>Cole Nussbaumer Knaflic</author>
+		
+	</book>
+	
+	<book category="cooking">
+	
+		<ISBN>0718187733</ISBN>
+		<title>Jamie Cooks Italy</title>
+		<author>Jamie Oliver</author>
+
+		<ISBN>9781743795378</ISBN>
+		<title>Nothing Fancy</title>
+		<author>Alison Roman</author>
+		
+	</book>
+</library>
