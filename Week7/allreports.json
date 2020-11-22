@@ -1,0 +1,128 @@
+{
+    "pagination": {
+        "pageSize": 50,
+        "currentPage": 14,
+        "totalItems": 659,
+        "totalPages": 14
+    },
+    "resourceBaseUri": "http://reports.sem-o.com/documents",
+    "items": [
+        {
+            "_id": "5fb6735a9620d96120640044",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T13:03:34",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191200.xml"
+        },
+        {
+            "_id": "5fb67a629620d96ec520e754",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T13:33:27",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191230.xml"
+        },
+        {
+            "_id": "5fb6816a9620d97c4f2cc494",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T14:03:39",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191300.xml"
+        },
+        {
+            "_id": "5fb688729620d90b685191f4",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T14:33:39",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191330.xml"
+        },
+        {
+            "_id": "5fb68f7a9620d919385b51f4",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T15:03:49",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191400.xml"
+        },
+        {
+            "_id": "5fb696869620d9272127ea85",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T15:33:23",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191430.xml"
+        },
+        {
+            "_id": "5fb69d8a9620d934ee167494",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T16:03:43",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191500.xml"
+        },
+        {
+            "_id": "5fb6a4929620d942816015e4",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T16:33:33",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191530.xml"
+        },
+        {
+            "_id": "5fb6ab9a9620d951072d72c4",
+            "Date": "2020-11-19",
+            "PublishTime": "2020-11-19T17:03:27",
+            "DateRetention": "2020-11-19",
+            "DPuG_ID": "BM-095",
+            "ReportName": "Balancing and Imbalance Market Cost View",
+            "Group": [
+                "Settlement Data"
+            ],
+            "Dynamic": true,
+            "ResourceName": "PUB_30MinImbalCost_202011191600.xml"
+        }
+    ]
+}
